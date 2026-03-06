@@ -7,8 +7,11 @@ Roll No: 2025BSDSAI015
 Program: BS in Data Science and Artificial Intelligence
 
 Repository Description
+
 This repository contains homework assignments and coding exercises completed as part of the Machine Learning course. The tasks focus on implementing mathematical algorithms and numerical approximations using Python in a Jupyter Notebook environment.
+
 Problem Details
+
 Problem 1: Euclid's Algorithm
 This problem involves implementing Euclid's Algorithm to compute the Greatest Common Divisor (GCD) of two integers.
 Tasks included:
