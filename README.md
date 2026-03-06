@@ -3,7 +3,9 @@ Homework Repository
 Student Information
 
 Name: Ambarish Panda
+
 Roll No: 2025BSDSAI015
+
 Program: BS in Data Science and Artificial Intelligence
 
 Repository Description
@@ -66,4 +68,5 @@ The purpose of this repository is to maintain an organized record of coursework 
 Author
 
 Ambarish Panda
+
 BS in Data Science and Artificial Intelligence
