@@ -57,6 +57,7 @@ Files in Repository
 
 
 Purpose
+
 The purpose of this repository is to maintain an organized record of coursework and practice implementing mathematical and algorithmic concepts used in machine learning.
 
 
